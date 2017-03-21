@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+ >
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#3F4957" >
+
+        <TextView
+            android:id="@+id/ssli_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="查看"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/mcp_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="5dp"
+            android:gravity="center"
+            android:text="＜ 專案拍照"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#FFFFFF" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/mcp_name"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <LinearLayout
+        android:id="@+id/mcp_bl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <Spinner
+            android:layout_marginTop="5dp"
+            android:id="@+id/mcp_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/balck_c" >
+
+            <EditText
+                android:id="@+id/mcp_page_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/white_noc"
+                android:ems="10"
+                android:gravity="start"
+                android:hint="請輸入描述"
+                android:inputType="textMultiLine"
+                android:lines="5"
+                android:maxLines="5"
+                android:scrollbarThumbVertical="@drawable/bar_color" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/mcp_page_word2"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:background="#3F4957"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/mcp_page_tv2111"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="詞彙"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#FFFFFF" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            
+            android:id="@+id/mcp_page_word"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="5dp"
+            android:background="#3F4957"
+            android:clickable="true"
+            android:focusable="true" >
+	
+            
+            
+            <TextView
+                android:id="@+id/page7_back_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="儲存"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#FFFFFF" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/mcp_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/mcp_bl"
+        android:layout_below="@+id/mcp_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/balck_c"
+        android:numColumns="3" >
+
+    </GridView>
+
+</RelativeLayout>

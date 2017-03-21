@@ -1,0 +1,99 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    tools:context="andyshiu.app.uitest.Page6" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#3F4957" >
+
+        <TextView
+            android:id="@+id/pli6_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="客戶"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/page6_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="0dp"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp" >
+
+            <RelativeLayout
+                android:id="@+id/querynotupload_button1"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="30dp"
+                android:background="#3F4957"
+                android:clickable="true"
+                android:focusable="true" >
+
+                <TextView
+                    android:id="@+id/page7_back_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:textColor="#FFFFFF"
+                    android:text="新增"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/deleteBtn"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="30dp"
+                android:background="#3F4957"
+                android:clickable="true"
+                android:focusable="true" >
+
+                <TextView
+                    android:id="@+id/mc_detail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:textColor="#FFFFFF"
+                    android:text="刪除"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/querynotupload_listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/page6_bottom"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_centerHorizontal="true" >
+
+    </ListView>
+
+</RelativeLayout>

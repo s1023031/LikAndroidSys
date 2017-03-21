@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/mmvli_back"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" >
+
+        <TextView
+            android:id="@+id/mmvli_tv2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_toLeftOf="@+id/mmvli_tv3"
+            android:layout_toRightOf="@+id/mmvli_tv1"
+            android:ellipsize="end"
+            android:lines="1"
+			android:scrollHorizontally="true"
+            android:gravity="left|center"
+            android:text="Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/mmvli_tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:text="Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/mmvli_tv3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignTop="@+id/mmvli_tv2"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="right|center"
+            android:text="Small Text"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    </RelativeLayout>
+
+</LinearLayout>

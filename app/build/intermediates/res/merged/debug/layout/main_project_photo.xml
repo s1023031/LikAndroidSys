@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#3F4957" >
+
+        <TextView
+            android:id="@+id/ssli_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="專案拍照"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/mp_page_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="5dp"
+            android:gravity="center"
+            android:text="＜ 客戶"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#FFFFFF" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/mpp_name"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="店家名稱："
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/mrp_tv_bl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/mpp_name"
+        android:gravity="center"
+        android:text="請選擇活動"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ListView
+        android:id="@+id/mpp_ls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mrp_tv_bl"
+        android:layout_centerHorizontal="true" >
+    </ListView>
+
+</RelativeLayout>

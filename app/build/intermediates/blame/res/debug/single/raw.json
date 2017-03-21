@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tnmapping.txt",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\raw\\tnmapping.txt"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\raw\\jssecacerts",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\raw\\jssecacerts"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tnmapping.txt",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\raw\\tnmapping.txt"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\raw\\jssecacerts",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\raw\\jssecacerts"
+    }
+]

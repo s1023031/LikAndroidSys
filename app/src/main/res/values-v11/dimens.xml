@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="tab_height">36dp</dimen><!-- 50 -->
+    <dimen name="tab_padding">3dp</dimen><!-- 10 -->
+    <dimen name="text_small">12sp</dimen><!-- 14 -->
+    <dimen name="text_default">15sp</dimen><!-- 18 --> 
+    <dimen name="text_large">20sp</dimen><!-- 24 --> 
+    <dimen name="text_mlarge">22sp</dimen><!-- 26 --> 
+    <dimen name="text_lmlarge">25sp</dimen><!-- 30 --> 
+   <dimen name="text_llarge">30sp</dimen><!-- 36 --> 
+    <dimen name="list_item_height">25dp</dimen><!-- 30 -->   
+    <dimen name="list_item_width_xxxlong">400dp</dimen><!-- 500 -->   
+    <dimen name="list_item_width_xxlong">320dp</dimen><!-- 400 -->   
+    <dimen name="list_item_width_xlong">250dp</dimen><!-- 300 -->   
+    <dimen name="list_item_width_10c">220dp</dimen><!-- 280 -->   
+    <dimen name="list_item_width_llong">200dp</dimen><!-- 250 -->   
+    <dimen name="list_item_width_mlong">160dp</dimen><!-- 200 -->   
+    <dimen name="list_item_width_slong">141dp</dimen><!-- 160 -->   
+    <dimen name="list_item_width_long">125dp</dimen><!-- 150 -->   
+    <dimen name="list_item_width_lxmedium">110dp</dimen><!-- 130 -->   
+    <dimen name="list_item_width_xmedium">100dp</dimen><!-- 120 -->   
+    <dimen name="list_item_width_mxmedium">90dp</dimen><!-- 110 -->   
+    <dimen name="list_item_width_medium">80dp</dimen><!-- 100 -->   
+    <dimen name="list_item_width_short">42dp</dimen><!-- 50 -->   
+    <dimen name="list_item_buttom_padding">6dp</dimen><!-- 10 -->   
+    <dimen name="list_item_top_padding">6dp</dimen><!-- 10 -->   
+    <dimen name="list_item_xbuttom_padding">10dp</dimen><!-- 15 -->   
+    <dimen name="list_item_xtop_padding">10dp</dimen><!-- 15 -->   
+    <dimen name="list_item_buttom12_padding">8dp</dimen><!-- 12 -->   
+    <dimen name="list_item_top12_padding">8dp</dimen><!-- 12 -->   
+    <dimen name="list_item_left_padding">4dp</dimen><!-- 4 -->   
+    <dimen name="list_item_right_padding">4dp</dimen><!-- 4 -->   
+    <dimen name="list_view_top_padding">17dp</dimen><!-- 20 -->
+	<dimen name="list_view_buttom_padding">17dp</dimen><!-- 20 -->
+	<dimen name="scroll_view_top_padding">17dp</dimen><!-- 20 -->
+	<dimen name="scroll_view_buttom_padding">17dp</dimen><!-- 20 -->
+	<dimen name="progressbar_left_padding">17dp</dimen><!-- 20 -->
+	<dimen name="progressbar_right_padding">17dp</dimen><!-- 20 -->
+	
+    <dimen name="priceWidth">90dp</dimen>   
+	<dimen name="checkWidth">80dp</dimen>   
+    <dimen name="checkHeight">40dp</dimen>   
+    <dimen name="disrateWidth">80dp</dimen>   
+
+   	<dimen name="confirmTextSize">22sp</dimen> 
+   	<dimen name="confirmButtonHeight">36dp</dimen> 
+    <dimen name="confirmButtonTopPadding">0dp</dimen>   
+    <dimen name="confirmButtonButtomPadding">0dp</dimen>   
+    <dimen name="confirmButtonLeftPadding">10dp</dimen>   
+    <dimen name="confirmButtonRightPadding">10dp</dimen>   
+    <dimen name="unit3_text">18sp</dimen> 
+
+    <dimen name="text_nunit_large">20sp</dimen><!-- 單位數量 --> 
+    <dimen name="text_width_11">50sp</dimen><!-- 60 --> 
+    <dimen name="text_width_12">42sp</dimen><!-- 50 --> 
+    <dimen name="text_width_13">38sp</dimen><!-- 45 --> 
+    <dimen name="text_width_21">46sp</dimen><!-- 55 --> 
+    <dimen name="text_width_22">46sp</dimen><!-- 55 --> 
+    <dimen name="text_width_23">38sp</dimen><!-- 45 --> 
+    <dimen name="text_width_31">46sp</dimen><!-- 55 --> 
+    <dimen name="text_width_32">46sp</dimen><!-- 55 --> 
+    <dimen name="text_width_33">38sp</dimen><!-- 45 --> 
+
+    <dimen name="receive_listview_height1">185dp</dimen><!-- 250 --> 		    	
+    <dimen name="receive_listview_height2">180dp</dimen><!-- 240 --> 		    	
+</resources>

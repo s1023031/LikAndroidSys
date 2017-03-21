@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#3F4957" >
+
+        <TextView
+            android:id="@+id/mrv_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="報告"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <RelativeLayout
+                android:id="@+id/mrv_send_but"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/balck_c"
+                android:clickable="true"
+            	android:focusable="true" >
+
+                <TextView
+                    android:id="@+id/mmvli_tv3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="傳送" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+            
+            <RelativeLayout
+                android:id="@+id/mrv_save_but"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/balck_c"
+                android:clickable="true"
+            	android:focusable="true" >
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="儲存" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+            
+            <RelativeLayout
+                android:id="@+id/mrv_cancel_but"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/balck_c"
+                android:clickable="true"
+            	android:focusable="true" >
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="取消" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/mrv_etly"
+        android:layout_width="wrap_content"
+        android:layout_height="130dp"
+        android:layout_above="@+id/linearLayout1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/balck_c" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/white_noc" >
+
+            <EditText
+                android:id="@+id/mrv_et1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:ems="10"
+                android:gravity="top"
+                android:hint="請輸入報告內容"
+                android:inputType="textMultiLine" >
+
+                <requestFocus />
+            </EditText>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/mrv_ls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/mrv_etly"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_centerHorizontal="true" >
+    </ListView>
+
+</RelativeLayout>

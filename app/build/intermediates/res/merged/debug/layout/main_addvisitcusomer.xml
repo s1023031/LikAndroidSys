@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="andyshiu.app.uitest.Page7" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#3F4957" >
+
+        <TextView
+            android:id="@+id/pli7_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="新增客戶"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/page7_back_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="19dp"
+            android:gravity="center"
+            android:text="&lt; 客戶"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#FFFFFF" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/page7_bottom_ly"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="0dp" >
+
+        <RelativeLayout
+            android:id="@+id/addvisitcustomer_button2"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:background="#3F4957"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/mc_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:textColor="#FFFFFF"
+                android:text="新增" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/addvisitcustomer_button3"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="30dp"
+            android:background="#3F4957"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:textColor="#FFFFFF"
+                android:text="取消" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/mmiv_down_ly"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+                <Spinner
+                    android:id="@+id/addvisitcustomer_spinner1"
+                    android:layout_width="134dp"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:drawSelectorOnTop="true"
+                    android:textSize="@dimen/text_large"
+                    android:textStyle="bold" />
+                
+            <EditText
+                android:id="@+id/addvisitcustomer_editText1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:textSize="@dimen/text_large"
+                android:textStyle="bold" 
+                android:inputType="textNoSuggestions">
+           </EditText>
+
+                <Button
+                    android:id="@+id/addvisitcustomer_button1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="搜尋" />
+                
+                 <Button
+                    android:id="@+id/addvisitcustomer_button4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="清除" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp" >
+
+            <RadioGroup
+                android:id="@+id/addvisitcustomer_radioGroup1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/addvisitcustomer_radio0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="規畫中客戶" />
+
+                <RadioButton
+                    android:id="@+id/addvisitcustomer_radio1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="其他" />
+            </RadioGroup>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mmiv_down_ly"
+        android:orientation="vertical" >
+        <include layout="@layout/addvisitcustomer_header"/>
+         <LinearLayout
+	                android:id="@+id/addvisitcustomer_linearLayout4"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:orientation="horizontal" >
+	
+	                <ListView
+	                    android:id="@+id/addvisitcustomer_listView1"
+	                    android:layout_width="match_parent"
+	                    android:layout_height="236dp"
+	                    android:choiceMode="singleChoice"
+	                    android:scrollbars="horizontal|vertical" >
+
+	                </ListView>
+	
+	            </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

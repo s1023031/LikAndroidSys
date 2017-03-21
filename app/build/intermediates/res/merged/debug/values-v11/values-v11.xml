@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="checkHeight">40dp</dimen>
+    <dimen name="checkWidth">80dp</dimen>
+    <dimen name="confirmButtonButtomPadding">0dp</dimen>
+    <dimen name="confirmButtonHeight">36dp</dimen>
+    <dimen name="confirmButtonLeftPadding">10dp</dimen>
+    <dimen name="confirmButtonRightPadding">10dp</dimen>
+    <dimen name="confirmButtonTopPadding">0dp</dimen>
+    <dimen name="confirmTextSize">22sp</dimen>
+    <dimen name="disrateWidth">80dp</dimen>
+    <dimen name="list_item_buttom12_padding">8dp</dimen>
+    <dimen name="list_item_buttom_padding">6dp</dimen>
+    <dimen name="list_item_height">25dp</dimen>
+    <dimen name="list_item_left_padding">4dp</dimen>
+    <dimen name="list_item_right_padding">4dp</dimen>
+    <dimen name="list_item_top12_padding">8dp</dimen>
+    <dimen name="list_item_top_padding">6dp</dimen>
+    <dimen name="list_item_width_10c">220dp</dimen>
+    <dimen name="list_item_width_llong">200dp</dimen>
+    <dimen name="list_item_width_long">125dp</dimen>
+    <dimen name="list_item_width_lxmedium">110dp</dimen>
+    <dimen name="list_item_width_medium">80dp</dimen>
+    <dimen name="list_item_width_mlong">160dp</dimen>
+    <dimen name="list_item_width_mxmedium">90dp</dimen>
+    <dimen name="list_item_width_short">42dp</dimen>
+    <dimen name="list_item_width_slong">141dp</dimen>
+    <dimen name="list_item_width_xlong">250dp</dimen>
+    <dimen name="list_item_width_xmedium">100dp</dimen>
+    <dimen name="list_item_width_xxlong">320dp</dimen>
+    <dimen name="list_item_width_xxxlong">400dp</dimen>
+    <dimen name="list_item_xbuttom_padding">10dp</dimen>
+    <dimen name="list_item_xtop_padding">10dp</dimen>
+    <dimen name="list_view_buttom_padding">17dp</dimen>
+    <dimen name="list_view_top_padding">17dp</dimen>
+    <dimen name="priceWidth">90dp</dimen>
+    <dimen name="progressbar_left_padding">17dp</dimen>
+    <dimen name="progressbar_right_padding">17dp</dimen>
+    <dimen name="receive_listview_height1">185dp</dimen>
+    <dimen name="receive_listview_height2">180dp</dimen>
+    <dimen name="scroll_view_buttom_padding">17dp</dimen>
+    <dimen name="scroll_view_top_padding">17dp</dimen>
+    <dimen name="tab_height">36dp</dimen>
+    <dimen name="tab_padding">3dp</dimen>
+    <dimen name="text_default">15sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="text_llarge">30sp</dimen>
+    <dimen name="text_lmlarge">25sp</dimen>
+    <dimen name="text_mlarge">22sp</dimen>
+    <dimen name="text_nunit_large">20sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_width_11">50sp</dimen>
+    <dimen name="text_width_12">42sp</dimen>
+    <dimen name="text_width_13">38sp</dimen>
+    <dimen name="text_width_21">46sp</dimen>
+    <dimen name="text_width_22">46sp</dimen>
+    <dimen name="text_width_23">38sp</dimen>
+    <dimen name="text_width_31">46sp</dimen>
+    <dimen name="text_width_32">46sp</dimen>
+    <dimen name="text_width_33">38sp</dimen>
+    <dimen name="unit3_text">18sp</dimen>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+</resources>

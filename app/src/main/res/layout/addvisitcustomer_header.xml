@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/list_item_padding" >
+
+    <com.lik.android.view.LikTextView
+        android:id="@+id/addvisitcustomer_header_textView1"
+        android:layout_width="@dimen/list_item_width_long"
+        android:layout_height="wrap_content"
+       	android:textSize="@dimen/text_small"
+    	android:textStyle="bold" 
+        android:text="@string/addvisitcustomerheaderTextView1"
+        android:textColor="@drawable/header_text_selector"
+        android:clickable="true"
+        android:textIsSelectable="true" 
+        android:contentDescription="@string/addvisitcustomerheaderDescTextView1" />
+    <com.lik.android.view.LikTextView
+        android:id="@+id/addvisitcustomer_header_textView2"
+        android:layout_width="@dimen/list_item_width_long"
+        android:layout_height="wrap_content"
+       	android:textSize="@dimen/text_small"
+    	android:textStyle="bold" 
+        android:text="@string/addvisitcustomerheaderTextView3"
+        android:textColor="@drawable/header_text_selector"
+        android:clickable="true"
+        android:textIsSelectable="true"
+        android:contentDescription="@string/addvisitcustomerheaderDescTextView2" />
+
+   
+</LinearLayout>

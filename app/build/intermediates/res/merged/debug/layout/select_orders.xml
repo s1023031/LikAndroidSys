@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/white_noc"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <Spinner
+        android:id="@+id/so_sp1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/so_but1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="選擇" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/so_but2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="取消" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

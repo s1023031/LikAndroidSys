@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/list_item_padding" >
+
+    <com.lik.android.view.LikTextView
+        android:id="@+id/displayfee_header_textView1"
+        android:layout_width="@dimen/list_item_width_llong"
+        android:layout_height="wrap_content"
+       	android:textSize="@dimen/text_large"
+    	android:textStyle="bold" 
+        android:text="@string/addvisitcustomerdisplayfeeheaderTextView1"
+        android:textColor="@drawable/ic_launcher"
+        android:clickable="true"
+        android:textIsSelectable="true" 
+        android:minWidth="@dimen/list_item_width_llong"
+        android:contentDescription="@string/addvisitcustomerdisplayfeeheaderDescTextView1" />
+    <com.lik.android.view.LikTextView
+        android:id="@+id/displayfee_header_textView2"
+        android:layout_width="@dimen/list_item_width_10c"
+        android:layout_height="wrap_content"
+       	android:textSize="@dimen/text_large"
+    	android:textStyle="bold" 
+        android:text="@string/addvisitcustomerdisplayfeeheaderTextView2"
+        android:textColor="@drawable/ic_launcher"
+        android:clickable="true"
+        android:textIsSelectable="true"
+        android:minWidth="@dimen/list_item_width_10c"
+        android:contentDescription="@string/addvisitcustomerdisplayfeeheaderDescTextView2" />
+    <com.lik.android.view.LikTextView
+        android:id="@+id/displayfee_header_textView3"
+        android:layout_width="@dimen/list_item_width_lxmedium"
+        android:layout_height="wrap_content"
+       	android:textSize="@dimen/text_large"
+    	android:textStyle="bold" 
+        android:text="@string/addvisitcustomerdisplayfeeheaderTextView3"
+        android:textColor="@drawable/ic_launcher"
+        android:clickable="true"
+        android:textIsSelectable="true"
+        android:gravity="right"
+        android:paddingRight="10dp"
+        android:minWidth="@dimen/list_item_width_lxmedium"
+        android:contentDescription="@string/addvisitcustomerdisplayfeeheaderDescTextView3" />
+    
+</LinearLayout>

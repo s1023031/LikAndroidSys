@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\menu\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\menu\\test.xml"
+    }
+]

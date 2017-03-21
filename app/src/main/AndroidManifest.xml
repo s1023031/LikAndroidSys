@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lik.android.main"
+    android:versionCode="1"
+    android:versionName="1.0" 
+    android:largeHeap="true">
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.WAKE_LOCK" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" /> -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".LikSysActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainMenuActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+		 <activity
+            android:name=".LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <service android:name=".LikSysInitIntentService" >
+        </service>
+        <service android:name=".LikSysCoreDataDownloadAdvViewIntentService" >
+        </service>
+        <service android:name=".LogLocationService" >
+        </service>
+        <service android:name=".InstantMessengerService" >
+        </service>
+
+        <receiver
+            android:name=".ScreenReceiver"
+            android:enabled="true"
+            android:permission="android.permission.BROADCAST_STICKY" >
+            <intent-filter>
+                <action android:name="Intent.ACTION_SCREEN_ON" />
+                <action android:name="Intent.ACTION_SCREEN_OFF" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".ScreenReceiverForInstantMessenger"
+            android:enabled="true"
+            android:permission="android.permission.BROADCAST_STICKY" >
+            <intent-filter>
+                <action android:name="Intent.ACTION_SCREEN_ON" />
+                <action android:name="Intent.ACTION_SCREEN_OFF" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".DateTimeChangedReceiver"
+            android:enabled="true"
+            android:permission="android.permission.BROADCAST_STICKY" >
+            <intent-filter>
+                <action android:name="Intent.ACTION_TIME_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".TestActivity"
+            android:label="@string/title_activity_test" >
+        </activity>
+
+        <uses-library
+            android:name="com.google.android.maps"
+            android:required="false" />
+
+        <activity
+            android:name=".SetCompanyActivity"
+            android:label="@string/title_activity_set_company" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\core_e45a166ba2b689f4a69604aaba65d48ae216a40f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\libs\httpclient-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0171c67fa04952e76bc9ee1e578fe629db35d769">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\httpclient-4.3.1_1f6f796062767d87d80cc375330ff400d7387425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_af7b86059c560882bd896890e41bef1c0da35afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\libs\httpcore-4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfd6286d04ad9dbf26cdf7d4ef5c8fad430cf30">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\httpcore-4.3_c76fbfe8698ec1818b7856010ecd6271db952770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\libs\httpmime-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\httpmime-4.2.1_131bf0c40e68f38ccc517689d08b8b07756d98bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\libs\android-viewbadger.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\android-viewbadger_84fb9a31736c143f62c8d79c97ef0905915d485b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_5b029c0d0c83dfb134f47146dab1d14b7a0f338b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_fd39c46289958df8c383c6cfba794374a66e66a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\libs\asmack-android-15-0.8.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73cc0c6dc93658e4d75c612e9268f445bab1bf98">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\asmack-android-15-0.8.1.1_00b919acb486c23da81e56cc583081139dec89e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5356e26f9599a5e44d893d9c205ef3e216eb1e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\libs\commons-net-3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f76ff64f941e71395a0e07cad82ee44310eea842">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\commons-net-3.2_b67e6e9d4c9af5023ad7b428a101ccbabc350e86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\libs\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\yoongsiangyun\StudioProjects\LikAndroidSys\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_8df245d58929134bcbd08b5bcf6d34ca3ff721b3.jar" />
+    </item>
+
+</items>

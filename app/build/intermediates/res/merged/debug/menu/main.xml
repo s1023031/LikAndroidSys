@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.lik.android.main.MainActivity" >
+
+     <item android:id="@+id/mainmenu_item1" android:title="@string/menuItem1"  android:showAsAction="always|withText">
+        <menu>
+            <item android:id="@+id/mainmenu_item11" android:title="@string/menuItem11" android:showAsAction="ifRoom|withText"/>
+            <item android:id="@+id/mainmenu_item13" android:title="@string/menuItem2" android:showAsAction="ifRoom|withText"/>
+            <item android:id="@+id/mainmenu_item14" android:title="@string/menuItem3" android:showAsAction="ifRoom|withText"/>
+            <item android:id="@+id/mainmenu_item8" android:title="@string/menuItem8" android:showAsAction="ifRoom|withText"/>
+        </menu>
+    </item>
+    
+
+
+</menu>

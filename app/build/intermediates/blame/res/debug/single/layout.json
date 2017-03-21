@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_bb_detail.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_bb_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pict_page_list_item.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\pict_page_list_item.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_project_photo.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_project_photo.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\displayfee_row.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\displayfee_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\under_constrution.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\under_constrution.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_ls_item.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\bb_ls_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vocabulary.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\vocabulary.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\displayfee_header.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\displayfee_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_string_ls_item.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\single_string_ls_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backup_main.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\backup_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_check_page.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_check_page.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_orders.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\select_orders.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_string_ls_item.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\single_string_ls_item.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uir001.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\uir001.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_querynotupload.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_querynotupload.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_addvisitcusomer.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_addvisitcusomer.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_company.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\activity_set_company.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imsubject.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\imsubject.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vb_listitem.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\vb_listitem.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_zoom_view.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\photo_zoom_view.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\displayfee.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\displayfee.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_pict_page.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_pict_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uir002.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\uir002.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_l.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_project_photo.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_project_photo.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_mesg_item_view.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_mesg_item_view.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addvisitcustomer_header.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\addvisitcustomer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pict_ls_item.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\pict_ls_item.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_l.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_l.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uir002.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\uir002.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\im_gallery_body.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\im_gallery_body.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_check_page.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_check_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_download21.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_download21.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_im_gallery.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_im_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\res_pict_zoom.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\res_pict_zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uir001.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\uir001.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_bb.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_bb.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addvisitcustomer_row.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\addvisitcustomer_row.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addvisitcustomer_row.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\addvisitcustomer_row.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\res_pict.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\res_pict.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mup_ls_item.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\mup_ls_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_zoom_view.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\photo_zoom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_mesg_view.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_mesg_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_zoom_view2.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\photo_zoom_view2.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_bb.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_bb.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pict_page_list_item.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\pict_page_list_item.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_report.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_report.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\querynotupload_row.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\querynotupload_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\res_pict.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\res_pict.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_res_page.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_res_page.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mmv_ls_item.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\mmv_ls_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page6_listview_item.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\page6_listview_item.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\under_constrution.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\under_constrution.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\displayfee_row.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\displayfee_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_orders.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\select_orders.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_ls_item.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\bb_ls_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_bb_detail.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_bb_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mmv_ls_item.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\mmv_ls_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_querynotupload.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_querynotupload.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_mesg_view.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_mesg_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\displayfee_header.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\displayfee_header.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_zoom_view2.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\photo_zoom_view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_company_name.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\login_company_name.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vb_listitem.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\vb_listitem.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vocabulary.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\vocabulary.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_im_gallery.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_im_gallery.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\displayfee.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\displayfee.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backup_main.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\backup_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_report.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_addvisitcusomer.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_addvisitcusomer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_company.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\activity_set_company.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\im_gallery_body.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\im_gallery_body.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\querynotupload_row.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\querynotupload_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_set_company.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_set_company.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_mesg_item_view.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_mesg_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_pict_page.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_pict_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_upload_page.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_upload_page.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_company_name.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\login_company_name.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pict_ls_item.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\pict_ls_item.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addvisitcustomer_search_method.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\addvisitcustomer_search_method.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_set_company.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_set_company.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mup_ls_item.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\mup_ls_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addvisitcustomer_search_method.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\addvisitcustomer_search_method.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pp_ls_item.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\pp_ls_item.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\res_pict_zoom.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\res_pict_zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pp_ls_item.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\pp_ls_item.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_download21.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_download21.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uir003.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\uir003.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addvisitcustomer_header.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\addvisitcustomer_header.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_upload_page.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_upload_page.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_customer_detail.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_customer_detail.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imsubject.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\imsubject.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_res_page.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_res_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_customer_detail.xml",
+        "source": "C:\\Users\\yoongsiangyun\\StudioProjects\\LikAndroidSys\\app\\src\\main\\res\\layout\\main_customer_detail.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uir003.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\uir003.xml"
+    },
+    {
+        "merged": "C:\\LikAndroidSys\\LikAndroidSys\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page6_listview_item.xml",
+        "source": "C:\\LikAndroidSys\\LikAndroidSys\\app\\src\\main\\res\\layout\\page6_listview_item.xml"
+    }
+]

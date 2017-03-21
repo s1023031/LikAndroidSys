@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<padding 
+    android:top="@dimen/list_item_buttom_padding"
+    android:bottom="@dimen/list_item_top_padding"  
+    android:left="@dimen/list_item_left_padding"
+    android:right="@dimen/list_item_right_padding" >    
+</padding>
+<solid
+    android:color="@color/wwhite">
+</solid>
+</shape>

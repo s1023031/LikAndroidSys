@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="wwhite">#fff3f3f3</color>
+   <color name="white">#ffffff</color>
+   <color name="red">#ffff0000</color>
+   <color name="blue">#ff0000ff</color>
+   <color name="yellow">#ffff00</color>
+   <color name="gold">#ffd700</color>
+   <color name="salmon">#fa8072</color>
+   <color name="orange">#ffa500</color>
+   <color name="green">#006400</color>
+   <color name="snow">#fffffafa</color>
+   <color name="gray">#bebebe</color>
+   <color name="black">#000000</color>
+   <color name="ghostWhite">#f8f8ff</color>
+   <color name="translucent_blue">#80ffff00</color>
+   <color name="translucent_red">#80ff0000</color>
+   <color name="mistyrose">#ffe4e1</color>
+   <color name="lightskyblue">#87cefa</color>
+   <color name="greenyellow">#adff2f</color>
+   <color name="deeppink">#ff1493</color>
+   <color name="purple">#B15BFF</color>
+   
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/list_item_padding" >
+    
+        <TextView
+        android:id="@+id/addvisitcustomer_row_textView1"
+        android:layout_width="@dimen/list_item_width_long"
+        android:layout_height="wrap_content"
+	    android:textSize="@dimen/text_small"
+		android:textStyle="bold" 
+		android:background="?android:attr/activatedBackgroundIndicator"
+        android:ellipsize="marquee" 
+        android:singleLine="true"/>
+            
+        
+        
+
+</LinearLayout>
