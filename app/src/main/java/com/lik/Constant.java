@@ -12,7 +12,7 @@ import java.util.Locale;
  *
  */
 public class Constant {
-
+	public static final String TAG2 = "LikSy2s";
 	public static final String TAG = "LikSys";
 	public static final String KEYSTORE_PASS = "likwebapp";
 	public static final String MANUFACTURER_SAMSUNG = "samsung";
