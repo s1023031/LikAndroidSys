@@ -65,7 +65,7 @@ public class AddVisitCustomerFragment  extends MainMenuFragment implements OnLon
 		Log.d(TAG, "in AddVisitCustomerFragment newInstance()");
 		Log.d("EE", "2222in AddVisitCustomerFragment newInstance()");
 		AddVisitCustomerFragment mf = new AddVisitCustomerFragment();
-
+        int x = 0;
 		// Supply index input as an argument.
 		Bundle args = new Bundle();
 		//.args.putInt("index", index);
